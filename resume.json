@@ -9,9 +9,9 @@
     "url": "https://www.danieljraine.com",
     "summary": "",
     "location": {
-      "city": "Greater Boston / Montague MA",
+      "city": "Greater Boston / Western MA",
       "countryCode": "US",
-      "region": "Massachusetts"
+      "region": "New England"
     },
     "profiles": [
       {
@@ -33,12 +33,12 @@
       "description": "mRNA biotechnology company",
       "position": "Sr. Software Engineer",
       "startDate": "2017-04",
-      "summary": "",
+      "summary": "I have worked across several teams and projects within Moderna's Informatics department, serving our research scientists, technical development/manufacturing engineers, and global partners by building web applications tailored to their needs and integrating their data within our own ecosystem. This covered every step of the software development lifecycle from gathering business requirements, translating them into technical solutions, prototyping, and ultimately delivering and maintaining the application through changing business needs and a growing userbase.",
       "highlights": [
-        "mRNA Ordering App - Designed and built",
-        "Development Hub - Technical Development manufacturing process tracker",
-        "BLAST - Optimized (cloud compute resources, ...)",
-        "Rust - "
+        "mRNA Ordering App - Designed and built an mRNA ordering application for our global partners",
+        "Development Hub - Built out our Technical Development manufacturing process tracker",
+        "BLAST - Optimized performance and reliability of our cloud-based compute resources for running BLAST searches",
+        "CLI - Built CLI tools using Rust and Python for streamlining interaction with our Informatics app ecosystem"
       ]
     }
   ],
@@ -48,12 +48,12 @@
       "area": "Neuroscience",
       "studyType": "Masters",
       "startDate": "2013-08",
-      "endDate": "2014-05",
+      "endDate": "2014-05"
     }
   ],
   "skills": [
     {
-      "name": "Web Development",
+      "name": "Full Stack Web Development",
       "keywords": [
         "HTML",
         "CSS",
@@ -61,11 +61,19 @@
       ]
     },
     {
-      "name": "Compression",
+      "name": "CLI Tooling",
       "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
+        "Python",
+        "Rust",
+        "OClif"
+      ]
+    },
+    {
+      "name": "Dev Ops",
+      "keywords": [
+        "",
+        "",
+        ""
       ]
     }
   ],
@@ -95,13 +103,59 @@
       ],
       "keywords": [
         "Rust",
-        "Embedded",
+        "Bare Metal",
         "Arduino"
       ],
       "startDate": "2022",
       "endDate": "2023",
       "url": "",
-      "type": "Application"
+      "type": "Embedded"
+    },
+    {
+      "name": "Air Quality Monitor",
+      "description": "An embedded software project (written in Rust) that controls an array of air quality sensors.",
+      "highlights": [
+        ""
+      ],
+      "keywords": [
+        "Rust",
+        "Bare-metal",
+        "STM32"
+      ],
+      "startDate": "2022",
+      "endDate": "2023",
+      "url": "",
+      "type": "Embedded"
+    },
+    {
+      "name": "Game",
+      "description": "A game jam submission",
+      "highlights": [
+        ""
+      ],
+      "keywords": [
+        "Rust",
+        "Game Engine",
+        "Bevy"
+      ],
+      "startDate": "2023",
+      "endDate": "2023",
+      "url": "",
+      "type": "Game"
+    },
+    {
+      "name": "Portfolio",
+      "description": "A project portfolio built using AstroJS and the islands architecture.",
+      "highlights": [
+        ""
+      ],
+      "keywords": [
+        "Astro",
+        "SolidJS"
+      ],
+      "startDate": "2023",
+      "url": "",
+      "type": "Website"
     }
   ],
   "meta": {

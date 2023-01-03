@@ -33,7 +33,7 @@
       "description": "mRNA biotechnology company",
       "position": "Sr. Software Engineer",
       "startDate": "2017-04",
-      "summary": "I have worked across several teams and projects within Moderna's Informatics department, serving our research scientists, technical development/manufacturing engineers, and global partners by building web applications tailored to their needs and integrating their data within our own ecosystem. This covered every step of the software development lifecycle from gathering business requirements, translating them into technical solutions, prototyping, and ultimately delivering and maintaining the application through changing business needs and a growing userbase.",
+      "summary": "I have worked across several teams and projects within Moderna's Informatics department, serving our research scientists, technical development/manufacturing engineers, and global partner institutions by building web applications tailored to their needs and integrating their data within our own ecosystem. This covered every step of the software development lifecycle from gathering business requirements, translating them into technical solutions, prototyping, and ultimately delivering and maintaining the application through changing business needs and a growing userbase.",
       "highlights": [
         "mRNA Ordering App - Designed and built an mRNA ordering application for our global partners",
         "Development Hub - Built out our Technical Development manufacturing process tracker",
@@ -57,7 +57,19 @@
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
+        "Angular",
+        "Node",
+        "Javascript",
+        "Typescript"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [
+        "Docker",
+        "Kubernetes",
+        "AWS",
+        "Kibana"
       ]
     },
     {
@@ -69,15 +81,19 @@
       ]
     },
     {
-      "name": "Dev Ops",
+      "name": "Data Engineering",
       "keywords": [
-        "",
-        "",
-        ""
+        "PostgreSQL",
+        "SQLite",
+        "Tableau",
+        "Looker"
       ]
     }
   ],
   "interests": [
+    {
+      "name": "Triathlon"
+    },
     {
       "name": "Traditional Folk Music",
       "keywords": [

@@ -1,0 +1,26 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Resume for Daniel J Raine",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Daniel J Raine",
+  "dependencies": {
+    "jsonresume-theme-autumn": "^1.0.1",
+    "jsonresume-theme-elite": "^1.2.0",
+    "jsonresume-theme-eloquent": "^4.1.0",
+    "jsonresume-theme-github": "^0.0.5",
+    "jsonresume-theme-jacrys": "^1.0.4",
+    "jsonresume-theme-kards": "^1.0.2",
+    "jsonresume-theme-paper": "^0.5.0",
+    "jsonresume-theme-tan-responsive": "^0.0.7",
+    "jsonresume-theme-wraypro": "^0.0.5",
+    "resume-cli": "^3.0.8"
+  }
+}

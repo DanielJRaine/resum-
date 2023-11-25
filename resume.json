@@ -3,29 +3,21 @@
   "basics": {
     "name": "Daniel J Raine",
     "label": "Sr. Software Engineer",
-    "image": "./Raine.jpg",
+    "image": "Raine.jpg",
+    "avatar": "Raine.jpg",
+    "photo": "Raine.jpg",
+    "picture": "Raine.jpg",
     "email": "DanielJRaine@gmail.com",
     "phone": "(312) 971-9642",
     "url": "https://www.danieljraine.com",
     "summary": "",
     "location": {
-      "city": "Greater Boston / Western MA",
+      "city": "Greater Boston",
       "countryCode": "US",
-      "region": "New England"
-    },
-    "profiles": [
-      {
-        "network": "LinkedIn",
-        "username": "DanielJRaine",
-        "url": "https://www.linkedin.com/in/danieljraine"
-      },
-      {
-        "network": "BandCamp",
-        "username": "Chimney Swift",
-        "url": "https://chimneyswift.bandcamp.com/"
-      }
-    ]
+      "region": "Massachusetts"
+    }
   },
+  "certificates": false,
   "work": [
     {
       "name": "Moderna",
@@ -33,7 +25,7 @@
       "description": "mRNA biotechnology company",
       "position": "Sr. Software Engineer",
       "startDate": "2017-04",
-      "summary": "I have worked across several teams and projects within Moderna's Informatics department, serving our research scientists, technical development/manufacturing engineers, and global partner institutions by building web applications tailored to their needs and integrating their data within our own ecosystem. This covered every step of the software development lifecycle from gathering business requirements, translating them into technical solutions, prototyping, and ultimately delivering and maintaining the application through changing business needs and a growing userbase.",
+      "summary": "I have worked across several teams and projects within Moderna's Informatics department, serving our research scientists, technical development engineers, and global partner institutions by building web applications tailored to their needs and integrating their data within our application ecosystem. This covers every step of the software development lifecycle from gathering business requirements, translating them into technical solutions, prototyping, building, delivering and maintaining the application through changing business needs and a growing userbase.",
       "highlights": [
         "mRNA Ordering App - Designed and built an mRNA ordering application for our global partners",
         "Development Hub - Built out our Technical Development manufacturing process tracker",
@@ -47,13 +39,20 @@
       "institution": "Brandeis University",
       "area": "Neuroscience",
       "studyType": "Masters",
-      "startDate": "2013-08",
-      "endDate": "2014-05"
+      "startDate": "2013",
+      "endDate": "2014"
+    },
+    {
+      "institution": "University of Illinois (UIUC)",
+      "area": "Molecular & Cellular Biology",
+      "studyType": "Bachelors",
+      "startDate": "2008",
+      "endDate": "2012"
     }
   ],
   "skills": [
     {
-      "name": "Full Stack Web Development",
+      "name": "Full Stack Web Dev",
       "keywords": [
         "HTML",
         "CSS",
@@ -67,9 +66,9 @@
       "name": "DevOps",
       "keywords": [
         "Docker",
-        "Kubernetes",
         "AWS",
-        "Kibana"
+        "Kibana",
+        "Cloudflare"
       ]
     },
     {
@@ -92,7 +91,12 @@
   ],
   "interests": [
     {
-      "name": "Triathlon"
+      "name": "Triathlon",
+      "keywords": [
+        "Running",
+        "Cycling",
+        "Swimming"
+      ]
     },
     {
       "name": "Traditional Folk Music",
@@ -124,7 +128,6 @@
       ],
       "startDate": "2022",
       "endDate": "2023",
-      "url": "",
       "type": "Embedded"
     },
     {
@@ -140,24 +143,7 @@
       ],
       "startDate": "2022",
       "endDate": "2023",
-      "url": "",
       "type": "Embedded"
-    },
-    {
-      "name": "Game",
-      "description": "A game jam submission",
-      "highlights": [
-        ""
-      ],
-      "keywords": [
-        "Rust",
-        "Game Engine",
-        "Bevy"
-      ],
-      "startDate": "2023",
-      "endDate": "2023",
-      "url": "",
-      "type": "Game"
     },
     {
       "name": "Portfolio",
@@ -167,16 +153,17 @@
       ],
       "keywords": [
         "Astro",
-        "SolidJS"
+        "SolidJS",
+        "Svelte"
       ],
       "startDate": "2023",
-      "url": "",
       "type": "Website"
     }
   ],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00"
+    "lastModified": "2017-12-24T15:53:00",
+    "theme": "tan-responsive"
   }
 }

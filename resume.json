@@ -9,7 +9,6 @@
     "picture": "Raine.jpg",
     "email": "DanielJRaine@gmail.com",
     "phone": "(312) 971-9642",
-    "url": "https://www.danieljraine.com",
     "summary": "",
     "location": {
       "city": "Greater Boston",
@@ -27,6 +26,7 @@
       "startDate": "2017-04",
       "summary": "I have worked across several teams and projects within Moderna's Informatics department, serving our research scientists, technical development engineers, and global partner institutions by building web applications tailored to their needs and integrating their data within our application ecosystem. This covers every step of the software development lifecycle from gathering business requirements, translating them into technical solutions, prototyping, building, delivering and maintaining the application through changing business needs and a growing userbase.",
       "highlights": [
+        "Observability - ",
         "mRNA Ordering App - Designed and built an mRNA ordering application for our global partners",
         "Development Hub - Built out our Technical Development manufacturing process tracker",
         "BLAST - Optimized performance and reliability of our cloud-based compute resources for running BLAST searches",
@@ -54,12 +54,13 @@
     {
       "name": "Full Stack Web Dev",
       "keywords": [
-        "HTML",
-        "CSS",
-        "Angular",
-        "Node",
+        "Rust",
+        "Typescript",
         "Javascript",
-        "Typescript"
+        "Node",
+        "Angular",
+        "CSS",
+        "HTML"
       ]
     },
     {
@@ -67,8 +68,9 @@
       "keywords": [
         "Docker",
         "AWS",
-        "Kibana",
-        "Cloudflare"
+        "ELK stack - Elasticsearch, Logstash, Kibana",
+        "Cloudflare",
+        "Dynatrace"
       ]
     },
     {
@@ -111,53 +113,11 @@
   "references": [
     {
       "name": "Cristi DiGenova",
-      "reference": ""
-    }
-  ],
-  "projects": [
-    {
-      "name": "Coop Door",
-      "description": "An embedded software project (written in Rust) that controls a chicken coop door to automatically open and close.",
-      "highlights": [
-        ""
-      ],
-      "keywords": [
-        "Rust",
-        "Bare Metal",
-        "Arduino"
-      ],
-      "startDate": "2022",
-      "endDate": "2023",
-      "type": "Embedded"
+      "reference": "https://www.linkedin.com/in/cristina-digenova-6687b238/"
     },
     {
-      "name": "Air Quality Monitor",
-      "description": "An embedded software project (written in Rust) that controls an array of air quality sensors.",
-      "highlights": [
-        ""
-      ],
-      "keywords": [
-        "Rust",
-        "Bare-metal",
-        "STM32"
-      ],
-      "startDate": "2022",
-      "endDate": "2023",
-      "type": "Embedded"
-    },
-    {
-      "name": "Portfolio",
-      "description": "A project portfolio built using AstroJS and the islands architecture.",
-      "highlights": [
-        ""
-      ],
-      "keywords": [
-        "Astro",
-        "SolidJS",
-        "Svelte"
-      ],
-      "startDate": "2023",
-      "type": "Website"
+      "name": "Nathaniel Reynolds",
+      "reference": "https://www.linkedin.com/in/nathaniel-reynolds-59083629/"
     }
   ],
   "meta": {

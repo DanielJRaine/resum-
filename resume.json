@@ -24,13 +24,15 @@
       "description": "mRNA biotechnology company",
       "position": "Sr. Software Engineer",
       "startDate": "2017-04",
-      "summary": "I have worked across several teams and projects within Moderna's Informatics department, serving our research scientists, technical development engineers, and global partner institutions by building web applications tailored to their needs and integrating their data within our application ecosystem. This covers every step of the software development lifecycle from gathering business requirements, translating them into technical solutions, prototyping, building, delivering and maintaining the application through changing business needs and a growing userbase.",
+      "summary": "Over the last several years, I have worked across every stage of the software development lifecycle from gathering business requirements, translating them into technical designs, prototyping, building, delivering, and maintaining the application through changing business needs and a growing userbase. I have worked with a variety of teams within Moderna's informatics department—serving our research scientists, technical development engineers, and global partner institutions by building web applications tailored to their needs and integrating their data within our app ecosystem. \n\n Over the past year, I have changed my career path to focus on DevOps, observability, and infrastructure to improve our reliability, fault-tolerance, and performance.",
       "highlights": [
-        "Observability - ",
-        "mRNA Ordering App - Designed and built an mRNA ordering application for our global partners",
-        "Development Hub - Built out our Technical Development manufacturing process tracker",
-        "BLAST - Optimized performance and reliability of our cloud-based compute resources for running BLAST searches",
-        "CLI - Built CLI tools using Rust and Python for streamlining interaction with our Informatics app ecosystem"
+        "Technical Lead - Led two separate teams ",
+        "Observability - Implemented company-wide observability, tracing, and application performance monitoring globally across manufacturing sites, labs, and informatics systems using Dynatrace. Built dashboards and set up alerting and response protocols through PagerDuty",
+        "mRNA Ordering App - Designed and built a customer-facing mRNA ordering application for our global partners.",
+        "Development Hub - Built out our Technical Development manufacturing process tracker.",
+        "BLAST - Optimized performance and reliability of our cloud-based compute resources for running BLAST searches.",
+        "CLI - Built CLI tools using Rust and Python for streamlining interaction with our Informatics app ecosystem.",
+        "Research Informatics - Gathered requirements from scientists and worked with PMs to build a suite of research tools." 
       ]
     }
   ],
@@ -104,20 +106,9 @@
       "name": "Traditional Folk Music",
       "keywords": [
         "Contra dance",
-        "Tune sessions",
-        "Celtic",
+        "Fiddle tune sessions",
         "Bluegrass"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Cristi DiGenova",
-      "reference": "https://www.linkedin.com/in/cristina-digenova-6687b238/"
-    },
-    {
-      "name": "Nathaniel Reynolds",
-      "reference": "https://www.linkedin.com/in/nathaniel-reynolds-59083629/"
     }
   ],
   "meta": {

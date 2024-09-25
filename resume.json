@@ -1,120 +1,101 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Daniel J Raine",
-    "label": "Sr. Software Engineer",
-    "image": "Raine.jpg",
-    "avatar": "Raine.jpg",
-    "photo": "Raine.jpg",
-    "picture": "Raine.jpg",
-    "email": "DanielJRaine@gmail.com",
-    "phone": "(312) 971-9642",
-    "summary": "",
-    "location": {
-      "city": "Greater Boston",
-      "countryCode": "US",
-      "region": "Massachusetts"
-    }
+	"name": "Daniel J Raine",
+	"label": "Sr. Software Engineer",
+	"image": "Raine.jpg",
+	"avatar": "Raine.jpg",
+	"photo": "Raine.jpg",
+	"picture": "Raine.jpg",
+	"email": "DanielJRaine@gmail.com",
+	"phone": "(312) 971-9642",
+	"summary": "Senior Software Engineer with a strong background in backend development, CLI tooling, and infrastructure optimization. Experienced in leading teams, designing scalable systems, and implementing observability and DevOps solutions. Seeking backend roles with a growing interest in Rust and systems programming.",
+	"location": {
+	  "city": "Greater Boston",
+	  "countryCode": "US",
+	  "region": "Massachusetts"
+	}
   },
-  "certificates": false,
   "work": [
-    {
-      "name": "Moderna",
-      "location": "Cambridge, MA",
-      "description": "mRNA biotechnology company",
-      "position": "Sr. Software Engineer",
-      "startDate": "2017-04",
-      "summary": "Over the last several years, I have worked across every stage of the software development lifecycle from gathering business requirements, translating them into technical designs, prototyping, building, delivering, and maintaining the application through changing business needs and a growing userbase. I have worked with a variety of teams within Moderna's informatics department—serving our research scientists, technical development engineers, and global partner institutions by building web applications tailored to their needs and integrating their data within our app ecosystem. \n\n Over the past year, I have changed my career path to focus on DevOps, observability, and infrastructure to improve our reliability, fault-tolerance, and performance.",
-      "highlights": [
-        "Technical Lead - Led two separate teams ",
-        "Observability - Implemented company-wide observability, tracing, and application performance monitoring globally across manufacturing sites, labs, and informatics systems using Dynatrace. Built dashboards and set up alerting and response protocols through PagerDuty",
-        "mRNA Ordering App - Designed and built a customer-facing mRNA ordering application for our global partners.",
-        "Development Hub - Built out our Technical Development manufacturing process tracker.",
-        "BLAST - Optimized performance and reliability of our cloud-based compute resources for running BLAST searches.",
-        "CLI - Built CLI tools using Rust and Python for streamlining interaction with our Informatics app ecosystem.",
-        "Research Informatics - Gathered requirements from scientists and worked with PMs to build a suite of research tools." 
-      ]
-    }
+	{
+	  "name": "Moderna",
+	  "location": "Cambridge, MA",
+	  "description": "mRNA biotechnology company",
+	  "position": "Sr. Software Engineer",
+	  "startDate": "2017-04",
+	  "summary": "Over the last several years, I have worked across every stage of the software development lifecycle – from gathering business requirements, translating them into technical designs, prototyping, building, delivering, and maintaining the application through changing business needs and a growing userbase. \n\n I have contributed to a variety of teams within Moderna's informatics department — serving our research scientists, technical development engineers, and global partner institutions by building web applications tailored to their needs and integrating their data within our app ecosystem. \n\n Over the past year, I have changed my career path to focus on DevOps, observability, and infrastructure to improve our reliability, fault-tolerance, and performance.",
+	  "highlights": [
+		"Technical Lead - Led two cross-functional engineering teams by providing mentorship, guiding technical decisions, and architecting our codebase. Helped prioritize work, maximize developer productivity, and improve code quality while empowering junior developers to do the same.",
+		"Observability - Implemented company-wide observability, tracing, and application performance monitoring globally across manufacturing sites, labs, and informatics systems using Dynatrace. Built dashboards and set up alerting and response protocols through PagerDuty.",
+		"mRNA Ordering App - Designed and built a customer-facing mRNA ordering application for our global partners.",
+		"Development Hub - Built out our Technical Development manufacturing process tracker.",
+		"BLAST - Optimized performance and reliability of our cloud-based compute resources for running BLAST searches.",
+		"CLI - Built CLI tools using Rust and Python for streamlining interaction with our Informatics app ecosystem.",
+		"Research Informatics - Gathered requirements from scientists and worked with PMs to build a suite of research tools."
+	  ]
+	}
   ],
   "education": [
-    {
-      "institution": "Brandeis University",
-      "area": "Neuroscience",
-      "studyType": "Masters",
-      "startDate": "2013",
-      "endDate": "2014"
-    },
-    {
-      "institution": "University of Illinois (UIUC)",
-      "area": "Molecular & Cellular Biology",
-      "studyType": "Bachelors",
-      "startDate": "2008",
-      "endDate": "2012"
-    }
+	{
+	  "institution": "Brandeis University",
+	  "area": "Neuroscience",
+	  "studyType": "Masters",
+	  "startDate": "2013",
+	  "endDate": "2014"
+	},
+	{
+	  "institution": "University of Illinois (UIUC)",
+	  "area": "Molecular & Cellular Biology",
+	  "studyType": "Bachelors",
+	  "startDate": "2008",
+	  "endDate": "2012"
+	}
   ],
   "skills": [
-    {
-      "name": "Full Stack Web Dev",
-      "keywords": [
-        "Rust",
-        "Typescript",
-        "Javascript",
-        "Node",
-        "Angular",
-        "CSS",
-        "HTML"
-      ]
-    },
-    {
-      "name": "DevOps",
-      "keywords": [
-        "Docker",
-        "AWS",
-        "ELK stack - Elasticsearch, Logstash, Kibana",
-        "Cloudflare",
-        "Dynatrace"
-      ]
-    },
-    {
-      "name": "CLI Tooling",
-      "keywords": [
-        "Python",
-        "Rust",
-        "OClif"
-      ]
-    },
-    {
-      "name": "Data Engineering",
-      "keywords": [
-        "PostgreSQL",
-        "SQLite",
-        "Tableau",
-        "Looker"
-      ]
-    }
-  ],
-  "interests": [
-    {
-      "name": "Triathlon",
-      "keywords": [
-        "Running",
-        "Cycling",
-        "Swimming"
-      ]
-    },
-    {
-      "name": "Traditional Folk Music",
-      "keywords": [
-        "Contra dance",
-        "Fiddle tune sessions",
-        "Bluegrass"
-      ]
-    }
+	{
+	  "name": "Full Stack Web Dev",
+	  "keywords": [
+		"Rust",
+		"Typescript",
+		"Javascript",
+		"Node",
+		"Angular",
+		"CSS",
+		"HTML"
+	  ]
+	},
+	{
+	  "name": "DevOps",
+	  "keywords": [
+		"Docker",
+		"AWS",
+		"ELK stack",
+		"Cloudflare",
+		"Dynatrace"
+	  ]
+	},
+	{
+	  "name": "CLI Tooling",
+	  "keywords": [
+		"Python",
+		"Rust",
+		"OClif"
+	  ]
+	},
+	{
+	  "name": "Data Engineering",
+	  "keywords": [
+		"PostgreSQL",
+		"SQLite",
+		"Tableau",
+		"Looker"
+	  ]
+	}
   ],
   "meta": {
-    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
-    "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00",
-    "theme": "tan-responsive"
+	"canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+	"version": "v1.0.0",
+	"lastModified": "2017-12-24T15:53:00",
+	"theme": "tan-responsive"
   }
 }
